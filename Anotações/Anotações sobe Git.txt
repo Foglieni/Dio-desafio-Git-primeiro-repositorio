@@ -1,0 +1,13 @@
+comandos para usar no Git:
+
+CD -> Para entrar em uma pasta.
+LS -> Listar o que tem dentro da pasta.
+MV -> Move arquivo de pasta.
+GIT STATUS -> Ajuda a monitorar o status do arquivo.
+MKDIR -> Cria uma nova pasta.
+GIT ADD + NOME ARQUIVO -> Adiciona arquivo para area de stage e depois commita ele.
+GIT COMMIT -m -> Cria um commit.
+ECHO -> Cria um arquivo.
+GIR ADD* -> Pega tudo que foi modificado no diretório de trabalho e adiciona no stage para ser commitado.
+GIT CONFIG --LISTA -> Lista de configurações.
+GIT CLONE + LINK -> Clona o repositório na máquina.
